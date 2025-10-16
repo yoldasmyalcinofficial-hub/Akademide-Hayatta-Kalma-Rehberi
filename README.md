@@ -1,0 +1,1 @@
+# Akademide-Hayatta-Kalma-Rehberi
