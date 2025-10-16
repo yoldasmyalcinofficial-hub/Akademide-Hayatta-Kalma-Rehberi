@@ -13,4 +13,5 @@ Glide aracıyla arayüzü, Sheets aracı ile de veri tabanını oluşturacağım
 
 ### Wireframe
 
-![753.jpg](attachment:316f22f6-9800-4f6a-b17c-d1f3fa5c420f:753.jpg)
+
+![IMG_20251016_003808](https://github.com/user-attachments/assets/067e13d2-b49c-4ed1-9384-3ff6bd48adb9)
